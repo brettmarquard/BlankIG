@@ -1,5 +1,5 @@
-# # This is a basic workflow to build a FHIR-IG and publish the output (docs folder) 
-# # on Git Hub Pages everytime it is pushed to the main branch
+# # This is a basic workflow to build a FHIR-IG and deploy it from the gh-pages branch
+# # to Git Hub Pages everytime it is pushed to the main branch
 
 # name: Build and Deploy
 
