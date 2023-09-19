@@ -51,7 +51,7 @@ groups:
     name: Test Examples 
     description: Examples for Testing Stuff Out!!!
     resources:
-      - Patient/deceased-example
+      # - Patient/deceased-example
 
 
 
@@ -73,8 +73,8 @@ pages:
   downloads.md:
     title: Downloads
 
-  ImplementationGuide-healthedata1-sandbox.md:
-    title: CDex ImplementationGuide Resource
+  ImplementationGuide.md:
+    title: ImplementationGuide Resource
 
   changes.md:
     title: Change Log
@@ -84,7 +84,7 @@ parameters:
   path-expansion-params: '../../input/_resources/exp-params.json'  # for using US ed of SNOMED
   show-inherited-invariants: true
   usage-stats-opt-out: false
-  path-output: docs #output #docs
+  path-output: output #docs
   path-resource:
     - input/resources
     - fsh-generated/resources
@@ -130,4 +130,4 @@ menu:
   Artifact Index: artifacts.html
   Downloads: downloads.html
   Change Log: changes.html
-  IG Page: 'ImplementationGuide-healthedata1-sandbox.html'
+  IG Page: 'ImplementationGuide.html'
