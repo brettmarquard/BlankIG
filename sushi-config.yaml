@@ -70,8 +70,10 @@ pages:
   guidance.md:
     title: Guidance
 
+  uscdi.md:
+    title: USCDI
   downloads.md:
-    title: Downloads
+    title: Download
 
   ImplementationGuide.md:
     title: ImplementationGuide Resource
@@ -127,6 +129,7 @@ menu:
   IG Home: index.html
   General Guidance: guidance.html
   #Table of Contents: toc.html
+  USCDI: uscdi.html
   Artifact Index: artifacts.html
   Downloads: downloads.html
   Change Log: changes.html
